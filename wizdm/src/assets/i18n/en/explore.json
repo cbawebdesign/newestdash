@@ -1,0 +1,19 @@
+[
+  { 
+    "icon": "",
+    "label": "Feed", 
+    "link": "feed" 
+  },
+
+  { 
+    "icon": "",
+    "label": "People", 
+    "link": "people" 
+  },
+
+  { 
+    "icon": "",
+    "label": "Groups", 
+    "link": "groups" 
+  }
+]

@@ -1,0 +1,20 @@
+
+:host {
+  position: relative;
+  min-height: 100%;
+  width: 100%;
+  padding: 8px;
+
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+
+  // Customize the distance between messages
+  .in, .out { margin-top: 12px; }
+  .in + .in, .out + .out { margin-top: 2px; }
+
+  .group-label { 
+    margin-top: 12px;
+    margin-bottom: auto; 
+  }
+}

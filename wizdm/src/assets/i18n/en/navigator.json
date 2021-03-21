@@ -1,0 +1,58 @@
+{
+    "title": "Digital Alpha LLC",
+    "description": "The fully featured boilerplate to launch your web application quickly",
+
+    "settings": {
+        "admin": { "label": "Admin", "icon": "", "link": "admin" },
+        "public": { "icon":"fas:fa-sign-in-alt", "link": "login" },
+        "private": [
+            { "label": "My profile", "icon": "", "link": "@me" },
+            { "label": "Settings", "icon": "", "link": "settings" },
+            { "label": "Sign Out", "icon": "", "link": "logout", "divider": true }
+        ]
+    },
+
+    "navbar": {
+        "public": [
+        
+        ],
+        "private": [
+            { "label": "Digital Alpha", "link": ".", "exact": true },
+            { "label": "Documents", "link": "explore" },
+            { "label": "Account", "link": "chat", "handling": "preserve" },
+            { "label": "Accounts", "link": "docs" }
+        ]
+    },
+
+    "menu": {
+        "public": [
+            { "label": "Wizdm", "link": ".", "exact": true },
+            { "label": "About", "link": "about" },
+            { "label": "Reference", "link": "docs" },
+            { "label": "Donate", "link": "donate" },
+            { "label": "Register/Sign-in", "link": "login", "params": { "mode": "signIn" } }
+        ],
+        "private": [
+            
+        ]
+    },
+
+    "footer": {
+        "copyright": "Digital Alpha LLC ©{{ year }}",
+      
+        
+      
+        "links": [
+            { "label": "About", "link": "about" },
+            { "label": "Terms of service", "link": "terms" },
+            { "label": "Privacy", "link": "privacy" },
+            { "label": "Contact us", "link": "contact" }
+        ],
+      
+        "languages": [
+            { "label": "English", "image": "assets/img/gb.svg", "value": "en" },
+            { "label": "Italiano", "image": "assets/img/it.svg", "value": "it" },
+            { "label": "Русский", "image": "assets/img/ru.svg", "value": "ru" }
+        ]
+      }
+}

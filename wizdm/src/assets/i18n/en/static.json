@@ -1,0 +1,136 @@
+{
+  "toc": {
+    "icon": "fas:fa-list",
+    "tooltip": "Table of Contents",
+    "items": [
+
+      { "label": "Getting Started", "link": "docs/start" },
+    
+      { "label": "Financials", "items": [
+    
+
+        { "label": "2017", "items": [
+
+        { "label": "Quarter One", "link": "explore/q12017" },
+        { "label": "Quarter Two", "link": "explore/q22017" },
+        { "label": "Quarter Three", "link": "docs/q32017" },
+        { "label": "Quarter Four", "link": "docs/q42017" }
+        
+      ]
+    }, 
+    { "label": "2018", "items": [
+
+      { "label": "Quarter One", "link": "explore/q12018" },
+      { "label": "Quarter Two", "link": "explore/q22018" },
+      { "label": "Quarter Three", "link": "docs/q32018" },
+      { "label": "Quarter Four", "link": "docs/q42018" }
+      
+    ]
+  },
+  { "label": "2019", "items": [
+
+    { "label": "Quarter One", "link": "explore/q12019" },
+    { "label": "Quarter Two", "link": "explore/q22019" },
+    { "label": "Quarter Three", "link": "docs/q32019" },
+    { "label": "Quarter Four", "link": "docs/q42019" }
+    
+  ]
+},
+{ "label": "2020", "items": [
+
+  { "label": "Quarter One", "link": "explore/q12020" },
+  { "label": "Quarter Two", "link": "explore/q22020" },
+  { "label": "Quarter Three", "link": "docs/q32020" },
+  { "label": "Quarter Four", "link": "docs/q42020" }
+  
+]
+},
+{ "label": "2021", "items": [
+
+  { "label": "Quarter One", "link": "explore/q12021" },
+  { "label": "Quarter Two", "link": "explore/q22021" },
+  { "label": "Quarter Three", "link": "docs/q32021" },
+  { "label": "Quarter Four", "link": "docs/q42021" }
+  
+]
+}
+
+  ]
+    },
+  
+    { "label": "Capital Account", "items": [
+    
+
+
+      { "label": "2017", "link": "explore/capitalaccount2017" },
+      { "label": "2018", "link": "explore/capitalaccount2018" },
+      { "label": "2019", "link": "explore/capitalaccount2019" },
+      { "label": "2020", "link": "explore/capitalaccount2020" },
+      { "label": "2021", "link": "explore/capitalaccount2021" }
+
+      
+   
+]
+  },
+    
+  { "label": "K1 Statements", "items": [
+    
+
+
+    { "label": "2017", "link": "explore/k12017" },
+    { "label": "2018", "link": "explore/k12018" },
+    { "label": "2019", "link": "explore/k12019" },
+    { "label": "2020", "link": "explore/k12020" },
+    { "label": "2021", "link": "explore/k12021" }
+
+    
+    
+
+]
+},
+      
+{ "label": "Distribution Letters", "items": [
+    
+
+
+  { "label": "2017", "link": "explore/distribution2017" },
+  { "label": "2018", "link": "explore/distribution2018" },
+  { "label": "2019", "link": "explore/distribution2019" },
+  { "label": "2020", "link": "explore/distribution2020" },
+  { "label": "2021", "link": "explore/distribution2021" }
+
+
+]
+},
+{ "label": "Capital Calls", "items": [
+    
+
+
+  { "label": "2017", "link": "explore/capitalcall2017" },
+  { "label": "2018", "link": "explore/capitalcall2018" },
+  { "label": "2019", "link": "docs/capitalcall2019" },
+  { "label": "2020", "link": "docs/capitalcall2020" },
+  { "label": "2021", "link": "docs/capitalcall2021" }
+
+  
+
+]
+},
+{ "label": "Newsletters", "items": [
+    
+
+
+  { "label": "Quarter One", "link": "explore/newsletterq1" },
+  { "label": "Quarter Two", "link": "explore/newsletterq2" },
+  { "label": "Quarter Three", "link": "explore/newsletterq3" },
+  { "label": "Quarter Four", "link": "explore/newsletterq4" }
+  
+
+]
+}
+    
+   
+    
+    ]
+  }
+}
